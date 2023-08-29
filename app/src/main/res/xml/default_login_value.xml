@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>
+            login_button_text
+        </key>
+        <value>
+            SignIn
+        </value>
+    </entry>
+    <entry>
+        <key>
+            login_page_heading
+        </key>
+        <value>
+            Login Form
+        </value>
+    </entry>
+</defaultsMap>
